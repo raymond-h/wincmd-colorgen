@@ -28,7 +28,6 @@
     "onchange": "latest"
   },
   "dependencies": {
-    "ini": "^1.3.4",
     "lodash": "^3.10.0",
     "onecolor": "^2.5.0",
     "yargs": "^3.17.1"
